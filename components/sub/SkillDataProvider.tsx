@@ -42,4 +42,4 @@ alt='skill image'
   )
 }
 
-export default SkillDataProvider
+export default SkillDataProvider;
